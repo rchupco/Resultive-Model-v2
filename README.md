@@ -17,6 +17,14 @@ A theoretical framework redefining clarity, time, and energy perception limits a
 - `clarity_gradient_H0.png`: Clarity vs. redshift curve demonstrating Hubble constant perception drift
 - `scripts/`: Python files used to generate the plots above
 
+## Scripts
+
+These Python scripts were used to generate the plots included:
+- `scripts/E_field_model.py`: Periodic energy output based on magnetic field resonance
+- `scripts/H0_clarity_gradient.py`: Visualization of clarity decay across redshift
+
+Note: These scripts may require minor tweaks depending on your Python version and installed packages (numpy, matplotlib).
+
 ## License
 
 Use freely. Credit the framework if derivative work is produced. No warranties, no gatekeeping.
